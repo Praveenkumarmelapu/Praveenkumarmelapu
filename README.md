@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Praveen Kumar Melapu
 
-<!--
-**Praveenkumarmelapu/Praveenkumarmelapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer from Andhra Pradesh, India. I build responsive websites and web apps using AI tools (Cursor and Antigravity), with knowledge of HTML, CSS, JavaScript and MongoDB. I also build WordPress websites and do basic on-page SEO.
 
-Here are some ideas to get you started:
+B.Tech (ECE), NSRIT (2022-2026).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Live projects
+- ZAVIRO - fashion e-commerce store: https://zaviro.vercel.app
+- LuxeDine - QR-based restaurant ordering system: https://quickserve-qr-order.vercel.app
+- CarePlus - hospital management system: https://hospital-management-system-five-nu.vercel.app
+- EduAttend - attendance management system: https://attendance-management-system-khaki-xi.vercel.app
+- Funngro redesign - two-page website revamp concept: https://funngro-redesign-five.vercel.app
+
+## Find me
+- Portfolio: https://praveenkumarmelapu.github.io/portfolio/
+- LinkedIn: https://www.linkedin.com/in/praveen-kumar-melapu/
